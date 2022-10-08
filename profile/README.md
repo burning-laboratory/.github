@@ -1,12 +1,9 @@
-## Hi there 👋
+<p align="center">
+      <img src="https://s4.gifyu.com/images/animated-logo-full.gif" center;>
+</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+    <img src="https://img.shields.io/discord/712117611550474290?label=discord&logo=discord" alt="Discord Online">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=telegram&color=success&label=telegram&query=result&suffix=%20subscribers&url=https%3A%2F%2Fapi.telegram.org%2Fbot5659493866%3AAAEM4De8DGWtgBv6iqec1f4xt67Wapl1cvg%2FgetChatMemberCount%3Fchat_id%3D%40burninglab" alt="Telegram Subscribers">
+    <img src="https://img.shields.io/github/stars/burning-laboratory?style=social" alt="Stars Count">
+</p>
